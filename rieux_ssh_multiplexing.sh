@@ -41,5 +41,4 @@ EOF
     fi
 }
 
-# Exporta a função para o terminal
-export -f rieux_ssh_multiplexing
+rieux_ssh_multiplexing
