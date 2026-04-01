@@ -1,5 +1,7 @@
 # rieux_ssh_multiplexing
 
+[![DOI](https://zenodo.org/badge/1187487539.svg)](https://doi.org/10.5281/zenodo.19139239)
+
 Script de automação para configurar a multiplexação SSH local para usuários macOS e Linux/WSL.
 
 ## O problema que resolve
