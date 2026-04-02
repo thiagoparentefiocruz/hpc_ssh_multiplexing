@@ -20,7 +20,7 @@ You can download it anywhere on your machine (like the `Downloads` folder), as t
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/thiagoparentefiocruz/hpc_ssh_multiplexing.git](https://github.com/thiagoparentefiocruz/hpc_ssh_multiplexing.git)
+git clone https://github.com/thiagoparentefiocruz/hpc_ssh_multiplexing.git
 
 # 2. Enter the cloned directory
 cd hpc_ssh_multiplexing
